@@ -6,3 +6,5 @@ Originally, I intended to simply upload a *.bak file of the database I started w
 	- ForecastCity consists of 6 columns and 30,557 rows
   
 By using the attached RealEstateQ.sql / RealEstateQ_v2.sql / and then RealEstateQ_v3.sql query files, you can easily recreate an instance of the same database that I built to use for active background queries in the RealEstateOracle.py program.
+
+To make things easy for you, I uploaded original versions as well as Un-pivoted versions of the tables that I created in PowerQuery. 
